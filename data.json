@@ -1,135 +1,113 @@
 {
-    "users": [
+  "feed": {
+    "stories": [
       {
         "id": "1",
-        "username": "jenniekim",
-        "fullName": "Jennie Kim",
-        "profileImage": "https://link.to/jenniekim_profile_image.jpg",
-        "bio": "Hello Guys! Follow me and like my post",
-        "followersCount": "10.7M",
-        "followingCount": "500",
-        "postsCount": "108.3M",
-        "stories": [
-          {
-            "id": "1",
-            "image1": "https://i.ibb.co/grdThkx/Ellipse-1.png",
-            "image2": "https://i.ibb.co/s2d3M1t/8ed87c9b83a3c017a0f6d82a76b64df4.png",
-            "title": "Your Story"
-          },
-          {
-            "id": "2",
-            "image1": "https://i.ibb.co/P9LY6xP/Group-2.png",
-            "image2": "https://i.ibb.co/5cxZjZr/806da2cb38b43ace6f2e15bc6c2f6da5.jpg",
-            "title": "Jenny Kim"
-          },
-          {
-            "id": "3",
-            "image1": "https://i.ibb.co/bLCkK98/Group-3.png",
-            "image2": "https://i.ibb.co/b6JF993/3a932be47b695fc91bf8afef5bfe78f5.jpg",
-            "title": "Roseanne Park"
-          },
-          {
-            "id": "4",
-            "image1": "https://i.ibb.co/5jNdyqv/Group-1.png",
-            "image2": "https://i.ibb.co/pnFhc1F/99550026ab88433c09d47f34757033d8.jpg",
-            "title": "Kim Ji - soo"
-          },
-          {
-            "id": "5",
-            "image1": "https://i.ibb.co/nRYvzqX/Group-4.png",
-            "image2": "https://i.ibb.co/0B7FdWF/3e02cef4d92835a574c05bb6ecf1276e.jpg",
-            "title": "Lalisa Manob"
-          }
-        ],
-        "posts": [
-          {
-            "id": "1",
-            "image": "https://i.ibb.co/cXH27XS/JENNIE-SOLO-Fansign-Event-at-COEX-jennie-blackpink-41680512-1068-711-1.png",
-            "likes": "300K",
-            "commentsCount": "87K",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-            "comments": [
-              {
-                "username": "user1",
-                "comment": "Amazing photo!",
-                "likes": "1K"
-              },
-              {
-                "username": "user2",
-                "comment": "I love this!",
-                "likes": "500"
-              }
-            ]
-          },
-          {
-            "id": "2",
-            "image": "https://i.ibb.co/WzqfZm0/7e69fcd7cc492288b3df24c78494c3cb.jpg",
-            "likes": "300K",
-            "commentsCount": "87K",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-            "comments": [
-              {
-                "username": "user1",
-                "comment": "Amazing photo!",
-                "likes": "1K"
-              },
-              {
-                "username": "user2",
-                "comment": "I love this!",
-                "likes": "500"
-              }
-            ]
-          }
-        ],
-        "albums": [
-          {
-            "id": "1",
-            "title": "Photos",
-            "photos": [
-              "https://i.ibb.co/2WL432F/49f14415-90bd-43a9-8a9f-f64b57f4ae51.jpg",
-              "https://i.ibb.co/NCWSBn8/7da19131-b32d-47a2-87e6-ac81d9d0b0d7.jpg",
-              "https://i.ibb.co/GWJ5SMw/4fdd06c1-905c-4849-9c07-5c06f60bf603.jpg",
-              "https://i.ibb.co/7YKNT8n/272910a7-1342-4e3f-afcf-c82f14d87861.jpg",
-              "https://i.ibb.co/TB3y0Kj/773c9b39-dd8f-4230-8525-b3d1d2ed2f49.jpg",
-              "https://i.ibb.co/kXm11gb/46a9d304-47fe-4066-ac3d-a459597ef149.jpg"
-            ]
-          }
-        ],
-        "messages": [
-          {
-            "id": "1",
-            "fromUser": "user2",
-            "message": "Hello Jennie!",
-            "timestamp": "2024-08-23T12:34:56Z"
-          }
-        ]
+        "image1": "https://i.ibb.co/grdThkx/Ellipse-1.png",
+        "image2": "https://i.ibb.co/s2d3M1t/8ed87c9b83a3c017a0f6d82a76b64df4.png",
+        "title": "Your Story"
+      },
+      {
+        "id": "2",
+        "image1": "https://i.ibb.co/P9LY6xP/Group-2.png",
+        "image2": "https://i.ibb.co/5cxZjZr/806da2cb38b43ace6f2e15bc6c2f6da5.jpg",
+        "title": "Jenny Kim"
+      },
+      {
+        "id": "3",
+        "image1": "https://i.ibb.co/bLCkK98/Group-3.png",
+        "image2": "https://i.ibb.co/b6JF993/3a932be47b695fc91bf8afef5bfe78f5.jpg",
+        "title": "Jenny Kim"
+      },
+      {
+        "id": "4",
+        "image1": "https://i.ibb.co/5jNdyqv/Group-1.png",
+        "image2": "https://i.ibb.co/pnFhc1F/99550026ab88433c09d47f34757033d8.jpg",
+        "title": "Jenny Kim"
+      },
+      {
+        "id": "5",
+        "image1": "https://i.ibb.co/nRYvzqX/Group-4.png",
+        "image2": "https://i.ibb.co/0B7FdWF/3e02cef4d92835a574c05bb6ecf1276e.jpg",
+        "title": "Jenny Kim"
       }
     ],
     "posts": [
       {
         "id": "1",
-        "userId": "1",
         "image": "https://i.ibb.co/cXH27XS/JENNIE-SOLO-Fansign-Event-at-COEX-jennie-blackpink-41680512-1068-711-1.png",
         "likes": "300K",
         "commentsCount": "87K",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
         "comments": [
           {
-            "id": "1",
             "username": "user1",
             "comment": "Amazing photo!",
-            "likes": "1K",
-            "timestamp": "2024-08-23T12:34:56Z"
+            "likes": "1K"
           },
           {
-            "id": "2",
             "username": "user2",
             "comment": "I love this!",
-            "likes": "500",
-            "timestamp": "2024-08-23T12:36:00Z"
+            "likes": "500"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "image": "https://i.ibb.co/WzqfZm0/7e69fcd7cc492288b3df24c78494c3cb.jpg",
+        "likes": "300K",
+        "commentsCount": "87K",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "comments": [
+          {
+            "username": "user1",
+            "comment": "Amazing photo!",
+            "likes": "1K"
+          },
+          {
+            "username": "user2",
+            "comment": "I love this!",
+            "likes": "500"
           }
         ]
       }
     ]
+  },
+  "profile": {
+    "name": "Jennie Kim",
+    "bio": "J. Hello Guys",
+    "description": "Follow me and like my post",
+    "followers": "10.7 M",
+    "likes": "108.3 M",
+    "backgroundImageUrl": "https://i.ibb.co/cL0kGQM/27f9a059-f454-426b-938f-6f146a29354e.jpg",
+    "profileImageUrl": "https://i.ibb.co/5cxZjZr/806da2cb38b43ace6f2e15bc6c2f6da5.jpg",
+    "photos": [
+      { "photo1": "https://i.ibb.co/2WL432F/49f14415-90bd-43a9-8a9f-f64b57f4ae51.jpg" },
+      { "photo2": "https://i.ibb.co/NCWSBn8/7da19131-b32d-47a2-87e6-ac81d9d0b0d7.jpg" },
+      { "photo3": "https://i.ibb.co/GWJ5SMw/4fdd06c1-905c-4849-9c07-5c06f60bf603.jpg" },
+      { "photo4": "https://i.ibb.co/7YKNT8n/272910a7-1342-4e3f-afcf-c82f14d87861.jpg" },
+      { "photo5": "https://i.ibb.co/TB3y0Kj/773c9b39-dd8f-4230-8525-b3d1d2ed2f49.jpg" },
+      { "photo6": "https://i.ibb.co/kXm11gb/46a9d304-47fe-4066-ac3d-a459597ef149.jpg" }
+      
+    ]
+  },
+  "imageDetail": {
+    "id": "1",
+    "imageUrl": "https://i.ibb.co/7YKNT8n/272910a7-1342-4e3f-afcf-c82f14d87861.jpg",
+    "likes": "300K",
+    "commentsCount": "87K",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "comments": [
+      {
+        "username": "user1",
+        "comment": "Amazing photo!",
+        "likes": "1K"
+      },
+      {
+        "username": "user2",
+        "comment": "I love this!",
+        "likes": "500"
+      }
+    ]
+  }
 }
-  
