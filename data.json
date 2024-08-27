@@ -23,7 +23,7 @@
         "id": "4",
         "image1": "https://i.ibb.co/5jNdyqv/Group-1.png",
         "image2": "https://i.ibb.co/pnFhc1F/99550026ab88433c09d47f34757033d8.jpg",
-        "title": "Kim Ji - soo"
+        "title": "Kim Ji-soo"
       },
       {
         "id": "5",
@@ -35,6 +35,7 @@
     "posts": [
       {
         "id": "1",
+        "name": "Jennie Kim",
         "image": "https://i.ibb.co/cXH27XS/JENNIE-SOLO-Fansign-Event-at-COEX-jennie-blackpink-41680512-1068-711-1.png",
         "likes": "300K",
         "commentsCount": "87K",
@@ -55,6 +56,7 @@
       },
       {
         "id": "2",
+        "name": "Kim Ji-soo",
         "image": "https://i.ibb.co/WzqfZm0/7e69fcd7cc492288b3df24c78494c3cb.jpg",
         "likes": "108K",
         "commentsCount": "54K",
